@@ -1,0 +1,195 @@
+.fondito {
+    background-color: #a16ad5;
+}
+
+#carouselExampleIndicators {
+    margin: 8rem;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ 
+footer {
+    background-color: #a16ad5;
+    margin-top: 100px;
+    color: #2b2e2b;
+    height: 50px;
+    width: 100%;
+}
+
+footer p {
+    font-size: 20px;
+}
+    
+
+i {
+    font-size: 25px;
+            
+}
+
+footer a {
+    
+    color: inherit;
+    padding: 5px;
+    transition: 0.5s;
+}
+        
+footer a:hover {
+    color: #957DAD;
+            
+}
+
+body { 
+    background: #E9E5EA;
+}    
+    
+
+    .preguntas-title {
+        font-size: 45px;
+        text-align: center;
+    }
+    
+    .preguntas-line {
+        margin-top: 30px;
+        margin-bottom: 25px;
+    }
+    
+    .preguntas-subtitle {
+        font-size: 25px;
+        margin-top: 35px;
+    }
+    
+    .preguntas-text {
+        line-height: 25px;
+        letter-spacing: 1.3px;
+        font-size: 17px;
+    }    
+
+    .contact-title {
+        margin-top: 60px;
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    .container-form {
+        width: 100%;
+        height: 600px;
+        box-sizing: border-box;
+        background-color: #FEC8D8;
+        border-radius: 4px;
+    }
+    
+    .form-title {
+        text-align: center;
+    }
+    
+    .input {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        padding: 15px 10px;
+        font-size: 15px;
+        border: 1px solid #FEC8D8 ;
+        border-radius: 3px;
+        outline: 0px;
+    }
+    
+    .textarea-container {
+        display: flex;
+        align-items: center;
+    }
+    
+    .text-area {
+        text-align: center;
+        width: 100%;
+        height: 200px;
+        margin-top: 20px;
+        padding: 15px 10px;
+        font-size: 15px;
+        border: 1px solid #FEC8D8 ;
+        border-radius: 3px;
+        outline: 0px;
+        /*max-width: 530px;
+        min-width: 430px;
+        max-height: 140px;
+        min-height: 150px;*/  
+    
+    }
+    
+    .btn-enviar {
+        padding: 15px;
+        font-size: 16px;
+        border: none;
+        outline: 0px;
+        background-color: #957DAD;
+        color: white;
+        border-radius: 3px;
+        cursor: pointer;
+        transition: all 300ms ease; 
+    }
+    
+    .btn-enviar:hover {
+        background: black;
+        
+    }
+    
+    .mapa {
+        width: 80%;
+        height: 300px;
+    }    
+
+    .article {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        flex-wrap: nowrap;
+    }
+    
+    .indice-item {
+        padding-top: 1px;
+        margin-top: 2px;
+        font-size: 15px;
+        
+    }
+    
+    .blog-img {
+        width: 70%;
+        height: auto;
+        max-width: 450px;
+        max-height: 400px;
+        margin: 25px auto;
+        border-radius: 6px;    
+    }
+    
+    .blog-title {
+        margin-top: 25px;
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    .blog-text {
+        line-height: 25px;
+        letter-spacing: 1.3px;
+        font-size: 17px;
+    }
+    
+    .blog-line {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    
+    .blog-subtitle {
+        font-size: 23px;
+        margin-top: 15px;
+        margin-bottom: 5px;
+    }
+    
+    .cielo {
+        color: inherit;
+        font-size: 20px;
+        text-decoration: none;
+    }
